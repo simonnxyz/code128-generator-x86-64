@@ -5,7 +5,7 @@ This x86-64 and C hybrid program generates a barcode from a given string and sav
 ## Requirements
 - CMake - build the project
 - NASM - compile assembly code.
-- GCC - C++ compiler.
+- GCC - C/C++ compiler.
 
 ## Installation
 To install the required tools, open Linux terminal or Ubuntu session in Windows terminal, then enter the following commands:
